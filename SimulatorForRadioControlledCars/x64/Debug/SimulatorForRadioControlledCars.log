@@ -1,0 +1,6 @@
+﻿  SimulatorForRadioControlledCars.cpp
+D:\Jobb tester\Volvo\simulator_for_radio-controlled_cars\SimulatorForRadioControlledCars\SimulatorForRadioControlledCars.cpp(54,116): warning C4018: '>=': signed/unsigned mismatch
+D:\Jobb tester\Volvo\simulator_for_radio-controlled_cars\SimulatorForRadioControlledCars\SimulatorForRadioControlledCars.cpp(54,151): warning C4018: '>=': signed/unsigned mismatch
+D:\Jobb tester\Volvo\simulator_for_radio-controlled_cars\SimulatorForRadioControlledCars\SimulatorForRadioControlledCars.cpp(108,42): warning C4018: '>': signed/unsigned mismatch
+D:\Jobb tester\Volvo\simulator_for_radio-controlled_cars\SimulatorForRadioControlledCars\SimulatorForRadioControlledCars.cpp(121,47): warning C4018: '>': signed/unsigned mismatch
+  SimulatorForRadioControlledCars.vcxproj -> D:\Jobb tester\Volvo\simulator_for_radio-controlled_cars\x64\Debug\SimulatorForRadioControlledCars.exe
